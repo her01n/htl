@@ -1,0 +1,4 @@
+surface analysis - open/closed, well oriented, point inside surface, point on surface.
+import/export stl, textual and binary
+boolean operations: union, intersection, difference
+full raft script
