@@ -10,7 +10,7 @@ It's intended use is for 3d printing, both for programatic modeling and slicing.
 A point in 3 dimensional cartesian space.
 Also used to represent a vector pointing from origin to this point.
 The coordinate values are stored as integers. Unit is micrometers (10<sup>-6</sup> m). 
-1 um = 0.0001 mm. This is very unlike other similar libraries, that choose floating point numbers.
+1 um = 0.001 mm. This is very unlike other similar libraries, that choose floating point numbers.
 The main reason to choose integers is to make numerical stability easier -
 the integer rounding is well defined and consistent on all platforms.
 
